@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>  
 <h3 align="center">Full Stack Software Developer having an experience of building Web and Mobile applications with JavaScript / Angular / Nodejs and Flutter.</h3>  
   
-- 👨‍💻 All of my projects are available at [https://www.vijay0405.in/](https://www.vijay0405.in/)  
+- 👨‍💻 All of my projects are available here 
   
-- 💬 Ask me about **JavaScript, Nodejs, Angular, TypeScript**  
+- 💬 Ask me about **JavaScript, Nodejs, Angular, TypeScript, Docker, GCP, Nginx**  
   
 - 📫 How to reach me - **uvijaysimha@gmail.com**  
   
-- 📄 Know about my experiences [- resume](https://www.vijay0405.in/assets/resume_vijay_reddy.pdf)  
+- 📄 Know about my experiences - [LinkedIn](https://www.linkedin.com/in/vijay0405/)  
   
 
   
